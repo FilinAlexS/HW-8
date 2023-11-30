@@ -1,0 +1,35 @@
+Отчёт о состоянии системы:
+Пользователи системы: '_analyticsd', '_appleevents', '_assetcache', '_atsserver', '_cmiodalassistants', '_coreaudiod', '_displaypolicyd', '_distnote', '_driverkit', '_fpsd', '_gamecontrollerd', '_hidd', '_locationd', '_mdnsresponder', '_netbios', '_networkd', '_nsurlsessiond', '_softwareupdate', '_spotlight', '_timed', '_usbmuxd', '_windowserver', 'alex', 'alexey', 'kirkurmur', 'root', 'test'
+Процессов запущено: 376
+Пользовательских процессов:
+_analyticsd: 1
+_appleevents: 1
+_assetcache: 1
+_atsserver: 1
+_cmiodalassistants: 1
+_coreaudiod: 1
+_displaypolicyd: 1
+_distnote: 1
+_driverkit: 1
+_fpsd: 3
+_gamecontrollerd: 1
+_hidd: 1
+_locationd: 1
+_mdnsresponder: 1
+_netbios: 1
+_networkd: 1
+_nsurlsessiond: 1
+_softwareupdate: 1
+_spotlight: 2
+_timed: 1
+_usbmuxd: 1
+_windowserver: 1
+alex: 247
+alexey: 4
+kirkurmur: 2
+root: 96
+test: 2
+Всего памяти используется: 5864.76 mb
+Всего CPU используется: 70.2 %
+Больше всего памяти использует: /Applications/PyChar
+Больше всего CPU использует: /Applications/PyChar
